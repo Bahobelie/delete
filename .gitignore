@@ -1,0 +1,11 @@
+.vs/
+bin/
+obj/
+appsettings.Development.json
+Properties/
+cnet_db_op.csproj.user
+cnet_db_op.sln
+cnet_db_op.csproj
+appsettings.json
+just
+
